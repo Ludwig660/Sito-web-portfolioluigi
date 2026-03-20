@@ -8,7 +8,6 @@
 
 - 🎓 **Percorso Accademico:** Studente di Informatica per le Aziende Digitali.
 - 💡 **Mission:** Creare soluzioni digitali che uniscano estetica e logica aziendale.
-- 🔭 **Focus Attuale:** Ottimizzazione delle performance frontend e architetture database SQL.
 
 ---
 
@@ -24,7 +23,7 @@
 
 ### 📂 Progetti in Evidenza
 
-#### 🚗 [GG Auto Vendita](https://github.com/Hludwig660/Sito-web-ggautovendita)
+#### 🚗 [GG Auto Vendita](https://www.ggautovendita.altervista.org/)
 *Piattaforma vetrina per la compravendita di veicoli.*
 
 * **Descrizione:** Sviluppo di un'interfaccia web dedicata alla gestione di un parco auto reale.
