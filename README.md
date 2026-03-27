@@ -1,40 +1,29 @@
-# Ciao sono Iorio Luigi 👋
+# Portfolio Personale - Luigi
 
-### 🚀 Studente di "Informatica per le Aziende Digitali"
+Benvenuti nel repository relativo al mio sito web personale ospitato su Altervista: [portfolioluigi.altervista.org](https://www.portfolioluigi.altervista.org/)
 
----
+## 🚀 Descrizione del Progetto
+Questo sito è il mio biglietto da visita digitale. L'obiettivo principale è mostrare il mio percorso professionale, le competenze tecniche acquisite e i progetti su cui ho lavorato.
+Il sito è sviluppato e gestito utilizzando le seguenti tecnologie:
+- **Piattaforma:** Altervista (Hosting & CMS)
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Ottimizzazione:** Layout Responsive per la visualizzazione su smartphone e tablet.
 
-### 👤 Chi Sono
-
-- 🎓 **Percorso Accademico:** Studente di Informatica per le Aziende Digitali.
-- 💡 **Mission:** Creare soluzioni digitali che uniscano estetica e logica aziendale.
-
----
-
-### 🛠️ Tech Stack
-
-| 🎨 Frontend | ⚙️ Backend & Logic | 🔧 Tools & DB |
-| :--- | :--- | :--- |
-| **HTML5 & CSS3** | **JavaScript (ES6+)** | **Git & GitHub** |
-| **Sass / SCSS** | **C Language** | **MySQL & Relational DB** |
-| **Responsive Design** | **SQL Queries** | **VS Code** |
+## 📂 Struttura del Sito
+Il sito si articola nelle seguenti sezioni principali:
+- **Home:** Introduzione e panoramica generale.
+- **Chi Sono:** Un riassunto della mia formazione e della mia visione professionale.
+- **Portfolio / Progetti:** Galleria dei lavori svolti con descrizioni dettagliate.
+- **Competenze:** Elenco dei software, linguaggi di programmazione o tool che utilizzo quotidianamente.
+- **Contatti:** Modulo o link diretti per raggiungermi (Email, LinkedIn, GitHub).
 
 ---
 
-### 📂 Progetti in Evidenza
-
-#### 🚗 [GG Auto Vendita](https://www.ggautovendita.altervista.org/)
-*Piattaforma vetrina per la compravendita di veicoli.*
-
-* **Descrizione:** Sviluppo di un'interfaccia web dedicata alla gestione di un parco auto reale.
-* **Tech Stack:** `HTML5`, `CSS3`, `JavaScript`.
-* **Key Feature:** Focus sulla SEO locale e chiarezza delle informazioni tecniche del veicolo.
+## 📬 Contatti
+Se sei interessato a collaborare puoi trovarmi qui:
+- **Sito Web:** [portfolioluigi.altervista.org](https://www.portfolioluigi.altervista.org/)
+- **Email:** [luigiiorio764@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/luigi-iorio-736499235/]
 
 ---
-
-### 📫 Come Contattarmi
-
-Se vuoi scambiare due chiacchiere su un progetto, sulla tecnologia o sul mondo del digital business, sentiti libero di scrivermi!
-
-* 📧 **Email:** [luigiiorio764@gmail.com](mailto:luigiiorio764@gmail.com)
-* 🐙 **GitHub:** [github.com/Hludwig660](https://github.com/Hludwig660)
+*Creato con passione da Luigi.*
